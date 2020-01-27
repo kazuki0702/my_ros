@@ -20,7 +20,7 @@ $ catkin_make
 ## YouTube
 https://youtu.be/ogLRQPR76P0
 ## LICENSE  
-This repository is licensed under the GPLv3 license, see LICENSE.
+This repository is licensed under the BSD-3-Clause license, see LICENSE.
 ## 一緒にやった人
 * 小関　隆　https://github.com/KosekiTakashi  
 * 木村　慧士　https://github.com/kimurasatoshi  
