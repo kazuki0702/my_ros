@@ -21,7 +21,7 @@ $ catkin_make
 https://youtu.be/ogLRQPR76P0
 ## LICENSE  
 This repository is licensed under the GPLv3 license, see LICENSE.
-# 2019 一緒にやった人
+## 一緒にやった人
 * 小関　隆　https://github.com/KosekiTakashi  
 * 木村　慧士　https://github.com/kimurasatoshi  
 * 小島　健　https://github.com/Takeshi-Kojima  
