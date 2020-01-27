@@ -6,7 +6,7 @@
 # インストール手順
 ```
 $ cd ~/catkin_ws/src/
-$ https://github.com/yoshimura/My_ROS.git
+$ https://github.com/kazuki0702/my_ros.git
 $ cd ../
 $ catkin_make
 ```    
@@ -14,10 +14,15 @@ $ catkin_make
 端末１  
 `$ roscore`  
 端末２  
-`$ rosrun My_ROS pub_yard.py`  
+`$ rosrun my_ros pub_yard.py`  
 端末３  
-`$ rosrun My_ROS sub_yard.py`
+`$ rosrun my_ros sub_yard.py`
 ## YouTube
 https://youtu.be/ogLRQPR76P0
 ## LICENSE  
 This repository is licensed under the GPLv3 license, see LICENSE.
+##一緒にやった人
+*小関　隆　https://github.com/KosekiTakashi
+＊木村　慧士　https://github.com/kimurasatoshi
+＊小島　健　https://github.com/Takeshi-Kojima
+
